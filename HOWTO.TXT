@@ -1,0 +1,31 @@
+// Friends
+
+// Vapor project
+
+// site: https://www.bignerdranch.com/blog/server-side-swift-with-vapor/
+
+//
+// for POSGTRESQL
+
+// file:  Config/secrets/postgresl.json
+{
+    "host": "127.0.0.1",
+    "user": "strabon",
+    "password": "",
+    "database": "friends",
+    "port": 5432
+}
+// ... for configuration access DB
+
+=> bash shell
+createdb <basename>
+psql
+
+=> inside psql:
+ \c friends   // to connect DB
+  select * from <table>
+
+
+//  cf curlpost.sh   for inserting data record with server
+
+
