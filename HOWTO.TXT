@@ -25,6 +25,8 @@ psql
  \c friends   // to connect DB
   select * from <table>
 
+=> test with curl.sh & exercise.sh
+
 
 //  cf curlpost.sh   for inserting data record with server
 
