@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Basic Template
 
 A basic vapor template for starting a new Vapor web application. If you're using vapor toolbox, you can use: `vapor new --template=basic`
@@ -13,3 +14,7 @@ Join the welcoming community of fellow Vapor developers in [slack](http://vapor.
 ## 🔧 Compatibility
 
 This package has been tested on macOS and Ubuntu.
+=======
+# LDC-POC
+LDC-POC
+>>>>>>> a00a388e4d06de6071f79edb7f3b21c6a4a439cb
